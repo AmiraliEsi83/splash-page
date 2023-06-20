@@ -4,9 +4,8 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
-<h1 align="center"><a href="https://jonnathanriquelmo.github.io/splash-page/" target="_blank"><strong>📺 LIVE DEMO</strong></a></h3>
+<h1 align="center"><a href="https://AmiraliEsi83.github.io/splash-page/" target="_blank"><strong>📺 LIVE DEMO</strong></a></h3>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 <h2 id="table-of-contents"> 📖 Table of Contents</h2>
 
